@@ -46,13 +46,13 @@ document.head.appendChild(style);
 // 歌曲列表
 // 歌曲列表
 const songs = [
-    './music/Air on the G String (Suite No. 3.mp3',
-    './music/I Was Never There - Th.mp3',
-    './music/Light dance-sakanaction.mp3',
-    './music/Merry Christmas Mr.La.mp3',
-    './music/sakanaction.mp3',
-    './music/sakanaction（サカナクション) .mp3',
-    './music/sakanaction（サカナクション).mp3'
+    './myweb/music/Air on the G String (Suite No. 3.mp3',
+    './myweb/music/I Was Never There - Th.mp3',
+    './myweb/music/Light dance-sakanaction.mp3',
+    './myweb/music/Merry Christmas Mr.La.mp3',
+    './myweb/music/sakanaction.mp3',
+    './myweb/music/sakanaction（サカナクション) .mp3',
+    './myweb/music/sakanaction（サカナクション).mp3'
 ];
 
 // 默认音频文件路径
